@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2.1</string>
+    <string name="mainactivity_name">Подписка</string>
+    <string name="usernameinput_string">Введите имя пользователя!</string>
+    <string name="emailinput_string">Введите email!</string>
+    <string name="result_string">Подписка на рассылку успешно оформлена для пользователя %s на электронный адрес %s</string>
+</resources>
